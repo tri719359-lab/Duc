@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm Phở Vui Vẻ",
+  "description": "Trò chơi mô phỏng quản lý quán phở Việt Nam: phục vụ khách theo yêu cầu, nhân vật bảnh bao, khách khó tính đợi quá lâu sẽ đập bàn bỏ đi!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
